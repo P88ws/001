@@ -530,7 +530,7 @@ input[type="text"].login-form {
     height: 84px;
 }
 .navbar [class^="icon_"] {
-    background: url(https://cdn.robotaset.com/assets/images/common/icon_nav.pn) no-repeat;
+    background: url(https://cdn.robotaset.com/assets/images/common/icon_nav.png) no-repeat;
     background-size: 80%;
 }
 .navbar .icon_home {
@@ -1236,7 +1236,7 @@ input[type="text"].login-form {
 
 /* Bank Section */
 .bank{margin:5px 3px;border:1px solid #4c4c4c;background-color:#080d10;border-radius:8px;padding:5px 0;max-width:148px;float:none;display:inline-block;height:40px}
-.bank>div{width:100px;height:26px;margin-left:35px;margin-top:1px;background:url(../images/common/070921-bank.png) no-repeat;background-size:200%}
+.bank>div{width:100px;height:26px;margin-left:35px;margin-top:1px;background:url(https://cdn.robotaset.com/assets/images/common/070921-bank.png) no-repeat;background-size:200%}
 .bank .bca{background-position:right -1px}
 .bank .permata{background-position:right -35px}
 .bank .mandiri{background-position:right -66px}

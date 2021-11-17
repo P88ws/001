@@ -36,7 +36,7 @@ input[type=text].login-form, input[type=password].login-form, input[type=email].
 .bank{	
 	color: #f1ebd5;
 	border:none;
-	background:#3d2308;}
+	background:#000;}
 .user-info>li:last-child>a{padding-right:0}
 .user-info a:not([href]):not([tabindex]){color:#fff}
 .user-info-balance{border:1px solid #f4d940;background-color:#000}

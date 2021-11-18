@@ -1162,7 +1162,7 @@ input[type="text"].login-form {
 .logo_wrap{padding:6px}
 .reward_pop .logo_wrap{text-align:center}
 .reward_pop .logo_wrap>img{max-height:45px}
-.reward_pop .close_icon{width:48px;height:45px;position:absolute;right:-24px;top:-20px;background:url(../images/common/close_icon.png) no-repeat center center;background-size:100%;font-size:0}
+.reward_pop .close_icon{width:48px;height:45px;position:absolute;right:-24px;top:-20px;background:url(https://cdn.robotaset.com/assets/images/common/close_icon.png) no-repeat center center;background-size:100%;font-size:0}
 .reward_pop .reward_content{padding:10px 16px}
 .reward_pop .reward_content img{width:100%}
 
@@ -2512,7 +2512,7 @@ select {
 .license span {
     height: 32px;
     display: block;
-    background: url(../images/common/icon-license.png) no-repeat;
+    background: url(https://cdn.robotaset.com/assets/images/common/icon-license.png) no-repeat;
 }
 .license .pagcor {
     width: 128px;
@@ -2640,7 +2640,7 @@ select {
 .bonus-provider-list a {
     display: block;
     padding: 70px 0 0 0;
-    background: url(../images/common/161121-icon_menu.png) no-repeat;
+    background: url(https://cdn.robotaset.com/assets/images/common/161121-icon_menu.png) no-repeat;
     background-position: -99px 2px;
     border-bottom: 2px solid transparent;
     filter: drop-shadow(0 0 0.01em #121212);

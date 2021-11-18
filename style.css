@@ -56,7 +56,7 @@ input[type=text].login-form, input[type=password].login-form, input[type=email].
 /*-------------------------                    end of header                   ----------------------------------*/
 /*-------------------------                    navbar                   ----------------------------------*/
 .navbar [class^=icon_] {
-    background: url(../images/icon_nav.png) no-repeat;
+    background: url(https://cdn.robotaset.com/assets/images/common/icon_nav.png) no-repeat;
     background-size: 80%;
 }
 .navbar{

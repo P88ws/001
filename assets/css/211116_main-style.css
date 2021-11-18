@@ -623,7 +623,7 @@ input[type="text"].login-form {
     height: auto;
     line-height: 30px;
     padding: 84px 0 0 0;
-    background: url(../images/common/161121-icon_menu.png) no-repeat;
+    background: url(https://cdn.robotaset.com/assets/images/common/161121-icon_menu.png) no-repeat;
     background-position: 0 8px;
 }
 .subnavbar .gameNav a:hover{text-decoration:none}
@@ -2430,7 +2430,7 @@ select {
 .wrap-provider-list{margin:0 auto;width:100%;text-align:center;padding:5px 0}
 #ProviderList{width:auto;display:inline-block;padding-left:0;list-style:none;margin-bottom:0}
 #ProviderList li{width:80px;display:inline-block;margin:5px 10px 15px}
-#ProviderList a{display:block;padding:50px 0 0 0;background:url(../images/common/161121-icon_menu.png) no-repeat;background-size:200%;background-position:left -4px}
+#ProviderList a{display:block;padding:50px 0 0 0;background:url(https://cdn.robotaset.com/assets/images/common/161121-icon_menu.png) no-repeat;background-size:200%;background-position:left -4px}
 #ProviderList .pgr{background-position:left -89px}
 #ProviderList .hb{background-position:left -171px}
 #ProviderList .gpi{background-position:left -254px}
@@ -2971,7 +2971,7 @@ select {
 .bonus-pv-icon {
     width: 110px;
     padding: 84px 0 0 0;
-    background: url(../images/common/161121-icon_menu.png) no-repeat;
+    background: url(https://cdn.robotaset.com/assets/images/common/161121-icon_menu.png) no-repeat;
     background-position: -110px 0;
     position: relative;
     left: -10px;

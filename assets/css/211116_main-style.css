@@ -3248,10 +3248,10 @@ select {
 .futuristic .casino .bbn .game-front{background-position:center -2548px}
 .futuristic .casino .ori .game-front{background-position:center -2730px}
 .futuristic .casino .cqn .game-front{background-position:center -3459px}
-.futuristic .casino .mcg .game-front{background:url(../images/provider/mcg-casino.png) no-repeat}
-.futuristic .casino .ttg .game-front{background:url(../images/provider/ttg-casino.png) no-repeat}
+.futuristic .casino .mcg .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/mcg-casino.png) no-repeat}
+.futuristic .casino .ttg .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/ttg-casino.png) no-repeat}
 .futuristic .casino .bgg .game-front{background-position:center -3823px}
-.futuristic .casino .blk .game-front{background:url(../images/provider/blk-casino.png) no-repeat;left:-8px;background-position:left center;background-size:63%}
+.futuristic .casino .blk .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/blk-casino.png) no-repeat;left:-8px;background-position:left center;background-size:63%}
 .futuristic .slot .skw .game-front{background-position:center -546px}
 .futuristic .slot .pgr .game-front{background-position:center -637px}
 .futuristic .slot .hb .game-front{background-position:center -728px}
@@ -3263,17 +3263,17 @@ select {
 .futuristic .slot .pst .game-front{background-position:center -2822px}
 .futuristic .slot .cqn .game-front{background-position:center -3185px}
 .futuristic .slot .bbp .game-front{background-position:center -3276px}
-.futuristic .slot .ttg .game-front{background:url(../images/provider/ttg-slot.png) no-repeat}
-.futuristic .slot .mcg .game-front{background:url(../images/provider/mcg-slot.png) no-repeat}
+.futuristic .slot .ttg .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/ttg-slot.png) no-repeat}
+.futuristic .slot .mcg .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/mcg-slot.png) no-repeat}
 .futuristic .slot .sll .game-front{background-position:center -4004px}
-.futuristic .slot .bng .game-front{background:url(../images/provider/bng-slot.png) no-repeat;left:-20px;background-position:left center;background-size:70%}
+.futuristic .slot .bng .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/bng-slot.png) no-repeat;left:-20px;background-position:left center;background-size:70%}
 .futuristic .tembak_ikan .skw .game-front{background-position:center -910px}
 .futuristic .tembak_ikan .pgr .game-front{background-position:center -1001px}
 .futuristic .tembak_ikan .spd .game-front{background-position:center -1092px}
 .futuristic .tembak_ikan .jkr .game-front{background-position:center -2093px}
 .futuristic .tembak_ikan .cqn .game-front{background-position:center -3550px}
 .futuristic .tembak_ikan .bgg .game-front{background-position:center -3641px}
-.futuristic .tembak_ikan .bbp .game-front{background:url(../images/provider/bbp-fishing.png) no-repeat;left:-55px;background-position:center;background-size:58%}
+.futuristic .tembak_ikan .bbp .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/bbp-fishing.png) no-repeat;left:-55px;background-position:center;background-size:58%}
 .futuristic .lottery .pgr .game-front{background-position:center -1183px}
 .futuristic .lottery .isin4d .game-front{background-position:center -1274px}
 .futuristic .poker .pgr .game-front{background-position:center -1365px}
@@ -3289,8 +3289,8 @@ select {
 .futuristic .games .pst .game-front{background-position:center -2912px}
 .futuristic .games .cqn .game-front{background-position:-6px -3003px}
 .futuristic .games .ttg .game-front{background-position:center -3098px}
-.futuristic .games .bbp .game-front{background:url(../images/provider/bbp-games.png) no-repeat}
-.futuristic .games .bng .game-front{background:url(../images/provider/bng-games.png) no-repeat}
+.futuristic .games .bbp .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/bbp-games.png) no-repeat}
+.futuristic .games .bng .game-front{background:url(https://cdn.robotaset.com/assets/images/provider/bng-games.png) no-repeat}
 .futuristic .games .idn .game-front{background-position:center -1546px}
 .futuristic .game-front-tag{position:absolute;left:-5px;top:-15px;max-width:35px;z-index:2}
 .futuristic .casino .mcg .game-front,.futuristic .casino .ttg .game-front,.futuristic .slot .mcg .game-front,.futuristic .slot .ttg .game-front{left:-15px;background-position:left center;background-size:63%}
@@ -3298,7 +3298,7 @@ select {
 .futuristic .bbn .game-front-tag,.futuristic .bbp .game-front-tag{top:-5px}
 
 /* Icon Game Front Provider */
-.futuristic .gameNav .pgr a{background:url(../images/provider/pgr-game-front-lobby.gif) no-repeat;background-size:100%;background-position:center -24px}
+.futuristic .gameNav .pgr a{background:url(https://cdn.robotaset.com/assets/images/provider/pgr-game-front-lobby.gif) no-repeat;background-size:100%;background-position:center -24px}
 .futuristic .gameNav .hb a{background-position:center -83px}
 .futuristic .gameNav .spd a{background-position:center -163px}
 .futuristic .gameNav .isin4d a{background-position:center -243px}
@@ -3315,13 +3315,13 @@ select {
 .futuristic .gameNav .awc a{background-position:center -1135px}
 .futuristic .gameNav .idn a{background-position:center -1220px}
 .futuristic .gameNav .sbc a{background-position:center -1655px}
-.futuristic .gameNav .bbn a{background:url(../images/provider/bbn-game-front.gif) no-repeat;background-size:98%}
+.futuristic .gameNav .bbn a{background:url(https://cdn.robotaset.com/assets/images/provider/bbn-game-front.gif) no-repeat;background-size:98%}
 .futuristic .gameNav .pgs a{background-position:center -1479px}
 .futuristic .gameNav .ori a{background-position:center -1300px}
 .futuristic .gameNav .pst a{background-position:center -1569px}
 .futuristic .gameNav .ttg a{background-position:center -1748px}
 .futuristic .gameNav .cqn a{background-position:center -1834px}
-.futuristic .gameNav .bbp a{background:url(../images/provider/bbp-game-front.gif) no-repeat;background-size:98%}
+.futuristic .gameNav .bbp a{background:url(https://cdn.robotaset.com/assets/images/provider/bbp-game-front.gif) no-repeat;background-size:98%}
 .futuristic .gameNav .bgg a{background-position:center -2030px}
 .futuristic .gameNav .sll a{background-position:center -2136px}
 .futuristic .gameNav .blk a{background-position:center -2228px}

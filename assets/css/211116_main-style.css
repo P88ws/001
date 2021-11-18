@@ -530,7 +530,7 @@ input[type="text"].login-form {
     height: 84px;
 }
 .navbar [class^="icon_"] {
-    background: url(../images/common/icon_nav.png) no-repeat;
+    background: url(https://cdn.robotaset.com/assets/images/common/icon_nav.png) no-repeat;
     background-size: 80%;
 }
 .navbar .icon_home {

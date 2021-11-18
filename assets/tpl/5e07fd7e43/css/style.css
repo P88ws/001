@@ -1,0 +1,358 @@
+a:hover{color:#f4d940}
+a:not([href]):not([tabindex]){color:#fff2f2}
+h3{text-align:left}
+input[type=text],input[type=password],input[type=email]{outline:none}
+select{outline:none}
+
+/*-----------------------------------------------------------*/
+#ReloadCaptcha,#ReloadCaptchaLogin,#ReloadCaptchaRegister{cursor:pointer}
+#iconCheck, #ReloadCaptcha, #ReloadCaptchaLogin, #ReloadCaptchaRegister {
+	line-height: 32px;
+	margin-left: 10px;
+	font-size: 16px;
+}
+.form-group.validation-error{color:#D32F2F}
+.form-group.validation-pass i{color:#388E3C;opacity:1}
+.top-nav{background:none;color:#fff}
+.index-body{background:url(https://cdn.robotaset.com/assets/tpl/6fb32eae/images/background.jpg) no-repeat fixed;background-size:cover}
+/* .index-body{background: #000} */
+/*-------------------------                    end of topnav                   ----------------------------------*/
+/*-------------------------                       header                   ----------------------------------*/
+.header{
+	/* background:url(../images/header.jpg)no-repeat; */
+	/* background-size: 100% 100%; */
+	/* background: none; */
+	/* background: linear-gradient(#111 80%, #111 , #9d7a1e); */
+	background: #27190e;
+	/* border-bottom: 2px solid #9d7a1e; */
+}
+.newsInfo .marquee{font-weight:bold;}
+.logo{margin-top:13px;max-height:35px; transform: scale(2.2);}
+input[type=text].login-form, input[type=password].login-form, input[type=email].login-form {
+	/* border:1px solid #30c5ff; */
+	background-color:#fff;
+	color: #000;
+}
+.bank{	
+	color: #f1ebd5;
+	border:none;
+	background:#000;}
+.user-info>li:last-child>a{padding-right:0}
+.user-info a:not([href]):not([tabindex]){color:#fff}
+.user-info-balance{border:1px solid #f4d940;background-color:#000}
+.popover-balance-content{border:1px solid #f4d940;background-color:#000}
+.bttn-check,.bttn-banking{color:#000}
+.bttn-banking,.bttn-banking:hover{
+	border: none;
+	background: #f4d940;
+	color: #000;
+	/* background-size: 100% 100%; */
+}
+/* .bttn-banking,.bttn-banking:hover{background-color:#f4d940} */
+#calibrate{border-left:1px solid #f4d940}
+.pop-wallet>tfoot{border-top:1px solid #f4d940}
+.pop-wallet>thead{border-bottom:1px solid #f4d940}
+
+/*-------------------------                    end of header                   ----------------------------------*/
+/*-------------------------                    navbar                   ----------------------------------*/
+.navbar [class^=icon_] {
+    background: url(../images/icon_nav.png) no-repeat;
+    background-size: 80%;
+}
+.navbar{
+	background:linear-gradient(#3e2208, #8f6034, #3e2208);
+	/* background: linear-gradient(#8b00c3, #d49ff7 40%, #8b00c3); */
+	/* background-size:100% 100%; */
+	border-top:none;
+	border-bottom:none;
+}
+.navbar ul{margin-top:-2px}
+.navbar a {
+	text-shadow:none; 
+	font-weight:bold; 
+	color: #000000;
+	-webkit-filter: none;
+	filter: none;
+}
+.subnavbar {
+	background: rgb(0, 0, 0, 0.8);
+	border-bottom: 2px groove #f4d940;
+}
+.subnavbar .gameNav a {
+	-webkit-filter: drop-shadow(0px 0px 1px #2e2600);
+	filter: drop-shadow(0px 0px 1px #2e2600);
+}
+.subnavbar .gameNav a:hover {
+	text-decoration: none;
+	background-color: inherit;
+	-webkit-filter: none;
+	filter: none;
+}
+.nav_name{color:#f4d940}
+.navbar .icon_home{background-position:center 16px}
+.navbar .icon_casino{background-position:center -214px}
+.navbar .icon_slot{background-position:10px -55px}
+.navbar .icon_tembak_ikan{background-position:center -298px}
+.navbar .icon_lottery{background-position:center -384px}
+.navbar .icon_poker{background-position:center -475px}
+.navbar .icon_sports,.navbar .icon_sportsbook{background-position:center -719px}
+.navbar .icon_cock_fighting{background-position:center -884px}
+.navbar .icon_games{background-position: center -803px}
+.navbar .icon_promo{background-position:center -130px}
+.navbar .icon_referral{background-position:center -562px}
+.navbar .icon_favorite{background-position:center -643px}
+/*-------------------------                    end of navbar                   ----------------------------------*/
+
+/*-------------------------                    middle content                   ----------------------------------*/
+.middle-index{
+	background: url(../images/middle.jpg) no-repeat;
+	background-size: 100% 100%;
+	border-bottom: 1px solid #feda1b;
+}
+.box-middle{padding:0;margin-top:2px;border:2px groove #f4d940}
+.rules-agreement-logo{background:url(../images/footer.png) no-repeat;background-size:600px 45px}
+.title {
+	padding: 15px 0 10px 0;
+	border-bottom: 2px solid #f4d940;
+	color: #f4d940;
+	text-indent: 0px;
+	display: inline-block;
+
+}
+.liveitem a{color: #000;border-color:#f4d940 !important;background-color:#f4d940}
+.info_wrap .btn_close{top:4px}
+.row{margin-right:-14px;margin-left:-14px; color: #f4d940;}
+.refcounter-wrap h1{color: #f4d940;}
+.refcounter-number{color: #f4d940;}
+.col-6{position:relative;width:100%;padding-right:22.5px;padding-left:22.5px;flex:0 0 50%;max-width:50%}
+.promotion-row_table{text-align:center;max-width:400px;margin-left:auto;margin-right:auto;margin-top:20px}
+.promotion-row_table .currency-flag{text-align:left;display:block;width:100px;margin-left:auto;margin-right:auto}
+.promotion-row_table .currency-flag img{padding-left:20px}
+.table-heading{background-color:#545252;font-weight:700}
+.table-heading .col-6{padding:5px 0;color:#fff;font-weight:700}
+.table-row{padding:4px 0;font-size:14px;font-weight:300}
+.table-row img{height:28px;vertical-align:middle}
+.table-row-odd{background-color:#7b767699}
+.table-row-even{background-color:#c5c3c399}
+
+/*-------------------------                    end of middle content                   ----------------------------------*/
+/*-------------------------                    modal                   ----------------------------------*/
+.game-list:not(.maintenance):hover{background-color:rgba(240, 213, 70, 0.66)}
+.modal-header{background:linear-gradient(#3e2208, #8f6034, #3e2208);} 
+.modal-title{font-weight:bold; color: #000;}
+/* .wrap-provider-list{margin-bottom:20px;border-bottom:2px solid #f4d940} */
+/*-------------------------                    end of modal                   ----------------------------------*/
+/*-------------------------                    multiuse                   ----------------------------------*/
+#checkAvailability, #iconCheck{display:inline-block}
+.bttn-login,.bttn-logout,.bttn-register{width:75px;border-radius:5px;font-weight:bold}
+.bttn-login,.bttn-check {
+	border: none;
+	background: #f4d940;
+	color: #000;
+	/* background-size: 100% 100%; */
+	/* background: linear-gradient(180deg, #f2df8e 0%, #c56c05 50%, #d1990a 110%); */
+}
+.bttn-logout,.bttn-register{
+	color: #000;
+	border:none;
+	background:#f7011c;
+	/* background-size: 100% 100%; */
+}
+.bttn-login:active{background-color:#d40b15;color:#fff}
+.bttn-register:active{background-color:#fbf211}
+.game>a, .login-box>a{cursor:pointer}
+#GameCategory a:hover, #GameCategory a.active,
+#PromotionCategory a:hover, #PromotionCategory a.active {
+	background-color:#f4d940;
+	color:#000;
+}
+.game-list{padding:0 10px;position:relative}
+.game-list:hover{background-color:#927b03}
+.game-list:hover .btn-game{display:block}
+.game-list-content>button{background-color:#f4d940; color: #000;}
+
+/*-------------------------                    popup banner                          ----------------------------------*/
+.sub_color{background-color:#2c2c2c}
+.reward_pop{background-color:#f5f5f5}
+/*-------------------------                    end of popup banner                   ----------------------------------*/
+
+/************************* footer *********************************/
+/* .footer{background:url(../images/footer-bg.jpg) no-repeat fixed;background-size:cover;background-position:top center} */
+.footer{background:none;}
+.footer h1,.footer h2,.footer h3{font-weight:bold;color:#fff}
+.footer-copyright{background-color:#000;padding:10px 0;text-align:center;text-transform:uppercase}
+.category{width:100%;border-bottom:1px solid #273642;line-height:.1em;margin:10px 0 20px}
+.category span{background:#010f02;padding:0 10px}
+.form-group [class*=col-]{margin-bottom:0}
+#RegisterForm .form-group input[type="text"], #RegisterForm .form-group input[type="password"],
+	#RegisterForm .form-group input[type="email"] {
+	font-size: 0.775rem;
+	border: 1px solid #757575;
+	background-color: #fff;
+	border-radius: 4px;
+	color: #212121;
+}
+input[type="text"].login-form, input[type="password"].login-form, input[type="email"].login-form{
+	border: 2px solid #000;
+	background:#fff;
+	color: #000;
+}
+/**************           popup top bar                                 ***********/
+.account_hd{background-color:transparent}
+.account_hd .logout,.account_hd .logout:hover{	
+	color: #000 !important;
+	border:none;
+	background:#f7011c;}
+.account_hd ul{display:block;font-size:.8125rem;float:right;zoom:1;margin:0;padding:0}
+.account_hd a{display:block;color:#000}
+.account_hd .livehelp,.account_hd .userid{padding-left:26px}
+.account_hd .livehelp{background-position:0 -742px}
+.account_hd .livehelp:hover{background-position:0 -773px;color:#2ccad7;text-decoration:none}
+.popup-header-time{margin-left:15px;font-size:13px}
+/**************           end of popup top bar                                ***********/
+
+/**************           popup menu bar                                 ***********/
+.account_nav{background-color:#000}
+.account_nav ul a:hover, .account_nav ul a.choice{color:#f4d940;border-bottom-color:#f4d940}		
+/**************           end of popup menu bar                                 ***********/
+
+/**************           popup content bar                                 ***********/
+.con_box:not(.account_list){background:url(../images/background.png) no-repeat;background-size:cover}
+.con_item h4{padding:15px 0 10px 0;text-indent:0;border-bottom:2px solid #f4d940}
+.con_item h4:before{border-left:none}
+.con_item .info_type{background-color:#232323;border:1px #4c4c4c solid;color:#888}
+.conlist li:hover,.conlist li.selected{background-color:#f4d940;color:#000}
+.form-group select{background-color:#fff}
+.popup-body{background-color:#2c2c2c}
+.popup-body .form-group input[type="text"], .popup-body .form-group input[type="password"] {
+	margin-top: 0;
+	border: 1px solid #757575;
+	background-color: #fff;
+	color: #212121;
+}
+.btn_type input[type=submit], .btn_type input[type=button], .btn_type input[type=reset] {
+	background-color:#f4d940;
+	color: #000;
+}
+.btn_type .btn_default:hover{background-color:#f4d940}
+.account_list{min-width:930px;padding:20px;box-shadow:0 -1px 1px rgba(0,0,0,.3);color:#000}
+.account_list.embed_account_list{background-color:#000}
+.account_list h4:before{border-left-color:#f4d940}
+.account_list .account_info{border-bottom:unset}
+.account_list .account_info thead{background-color:#f4d940}
+.account_list .account_info th{color: #000}
+.date_list input[type="text"], .date_list input[type="password"]{border-color:#757575;color:#000}
+.date_list button {
+	width: 136px;
+	height: 32px;
+	line-height: 32px;
+	background-color:#f4d940;
+	color: #000;
+	outline: none;
+}
+.date_list li:first-child{color:#fff}
+.datepicker table tr td.active.active, 
+.datepicker table tr td.active:active,
+.datepicker table tr td.active:hover,
+.datepicker table tr td.active:hover.active, 
+.datepicker table tr td.active:hover:active,
+.datepicker table tr td.active:hover:hover{
+	background:#f4d940;
+	color:#212529;
+}
+.form-group .transcash .cash{border:1px solid #757575;background-color:#fff;color:#000}
+.wallet{margin:1% 0% 0 2%;border:1px solid #848484;background-color:#ececec;float:right;padding:0}
+.wallet .total, .wallet .primary{color:#f4d940}
+.wallet .total .btn_total,.wallet .primary .btn_total{background:linear-gradient(180deg, #f4d940 0%, #f4d940 50%, #f4d940 100%);color: #000;}
+.wallet .content-inner .icon_dropdown {
+	position: relative;
+	margin: 3px 6px 0 0;
+	width: 18px;
+	height: 18px;
+	display: block;
+	background-color: #757575;
+	padding-left: 3px;
+	padding-top: 2px;
+	-webkit-border-radius: 50%;
+	-mos-border-radius: 50%;
+	border-radius: 50%;
+	-webkit-transition: all 0.3s ease;
+	-moz-transition: all 0.3s ease;
+	-ms-transition: all 0.3s ease;
+	-o-transition: all 0.3s ease;
+	transition: all 0.3s ease;
+	float: left;
+	padding: 2px;
+}
+.conlist{border:1px solid #459e00}
+.conlist h5 {
+	padding: 0 8px;
+	text-transform: uppercase;
+	color: #383838;
+	font-weight: 700;
+	line-height: 30px;
+	font-size: 0.8125rem;
+}
+.validation-error .input-field{border-color:#D32F2F}
+.validation-error i{overflow:visible;opacity:1}
+.validation-close i{color:#424242;overflow:visible;opacity:1}
+
+/*Bonus Module 9 September 2020*/
+.bonus-wrapper .nav-tabs .nav-link.active{border-bottom:5px solid #f4d940;color:#19191b}
+.bonus-wrapper .nav-tabs{border-bottom:1px solid #f4d940}
+.bonus-wrapper .nav-tabs .nav-link:hover{color:#f4d940}
+.bonus-provider-list li:hover{background-color:#f4d940 !important}
+.bonus-provider-list li.active a{border-bottom:2px solid #f00;font-weight:700;background-color:#f4d940; color: #000;}
+.bonus-provider-list span{color:#000;}
+.mainPvLs{background-color:rgba(240, 213, 70, 0.66)}
+.bonus-item{border-color:#f4d940;background-color:rgb(255, 143, 0) !important;outline:none;color:#fff}
+.isNewPlayer{background:#f4d940;color:#000}
+.bonus-button.active{background-color:#f4d940;color:#38260a;border-color:rgb(242,230,153)}
+.bonus-button.active:hover{background-color:#f4d940;cursor:pointer;color:#000}
+.bonus-name{color:#f4d940}
+.bonus-button.btn-await-approval{background-color:#f4d940;color:#000}
+.progress-value{background:linear-gradient(180deg, rgba(227, 232, 59, 0.42) 0, #f4d940 100%)}
+
+/*MENUBAR TEMPLATE 1*/
+.futuristic .gameNav a>span {
+	padding: 3px 6px;
+	line-height: 30px;
+	height: 30px;
+	border: 1px solid #fff !important;
+	border-radius: 10px;
+	color: #ffffff !important;
+	font-weight: normal !important;
+	font-size: 0.675rem;
+}
+.futuristic .gameNav > li:hover .icon-menu-wrapper{ border-color: #f00 !important;}
+.futuristic .gameNav>li:hover span:not(.icon-new){background: #f00 !important; color: #fff !important;}
+.futuristic .icon-menu-wrapper {
+	border-color:#fff !important;
+	background: linear-gradient(90deg,#a68b42,#f4f100cf,#000);
+	height:95px;
+}
+
+/************ Progressive Jackpot ***********/
+.progressive-jackpot{filter:unset;padding-bottom:8px}
+.jackpot-wrapper{filter:unset;}
+.progressive-jackpot img{
+	filter:unset;
+	width:100%;
+	background-size:100% 100%;
+}
+
+/********* Provider List near footer *********/
+#ProviderList .pgs{background-position:left -1332px}
+
+/* Favorite */
+.filter-tools a:hover, .filter-tools a.selected {
+	background: radial-gradient(circle, transparent 1%, #f4d940 1%) center center / 15000% #f4d940;
+    border: 1px solid rgb(44 44 44 / 0.7);
+    color: #000;
+}
+._seo_footer {
+	color: #3c2207;
+}
+.figure-text {
+	color: #3c2207;
+}

@@ -328,7 +328,7 @@ input[type="text"].login-form, input[type="password"].login-form, input[type="em
 .futuristic .gameNav>li:hover span:not(.icon-new){background: #f00 !important; color: #fff !important;}
 .futuristic .icon-menu-wrapper {
 	border-color:#fff !important;
-	background: linear-gradient(90deg,#a68b42,#f4f100cf,#000);
+	background: linear-gradient(90deg,#db1c1c,#007bff,#000);
 	height:95px;
 }
 

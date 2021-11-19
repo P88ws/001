@@ -151,12 +151,28 @@ input[type=text].login-form, input[type=password].login-form, input[type=email].
 	color: #000;
 	/* background-size: 100% 100%; */
 	/* background: linear-gradient(180deg, #f2df8e 0%, #c56c05 50%, #d1990a 110%); */
+	box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(110 80 20 / 40%), inset 0 -2px 5px 1px rgb(139 66 8), inset 0 -1px 1px 3px rgb(250 227 133);
+    background-image: linear-gradient(
+160deg, #a54e07, #b47e11, #fef1a2, #bc881b, #a54e07);
+    border: 1px solid #a55d07;
+min-width: 120px;
+    height: 2.75em;
+    line-height:2.5em;
+	
 }
 .bttn-logout,.bttn-register{
 	color: #000;
 	border:none;
 	background:#f7011c;
 	/* background-size: 100% 100%; */
+	box-shadow: 0 3px 6px rgb(0 0 0 / 16%), 0 3px 6px rgb(0 0 0 / 23%), inset 0 -2px 5px 1px #8b0808, inset 0 -1px 1px 3px #fa7171;
+    background-image: linear-gradient(
+160deg, #a50707, #b41111, #fea2a2, #bc1b1b, #a50707);
+    border: 1px solid #a50707;
+height: 2.75em;
+line-height:2.5em;
+
+	
 }
 .bttn-login:active{background-color:#d40b15;color:#fff}
 .bttn-register:active{background-color:#fbf211}

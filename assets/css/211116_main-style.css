@@ -1000,12 +1000,43 @@ input[type="text"].login-form {
 .bttn-calibrate {
     width: 100%;
 }
+.bttn-login:focus,
+.bttn-login:hover {
+  background-size: 150% 150%;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23),
+                inset 0 -2px 5px 1px #b17d10,
+                inset 0 -1px 1px 3px rgba(250,227,133,1);
+  border: 1px solid rgba(165,93,7,.6);
+  color: rgba(120,50,5,.8);
+}
 .bttn-login:active {
-    background-color: #17b857;
+  box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(110,80,20,.4),
+              inset 0 -2px 5px 1px #b17d10,
+                inset 0 -1px 1px 3px rgba(250,227,133,1);
+}
+
+
+
+
+.bttn-register:focus,
+.bttn-register:hover {
+  background-size: 150% 150%;
+  box-shadow: 0 10px 20px rgba(0,0,0,0.19), 0 6px 6px rgba(0,0,0,0.23),
+                inset 0 -2px 5px 1px #b17d10,
+                inset 0 -1px 1px 3px #fa7171;
+  border: 1px solid rgba(165,93,7,.6);
+  color: rgba(120,50,5,.8);
 }
 .bttn-register:active {
-    background-color: #b8171f;
+  box-shadow: 0 3px 6px rgba(0,0,0,.16), 0 3px 6px rgba(110,80,20,.4),
+              inset 0 -2px 5px 1px #b17d10,
+                inset 0 -1px 1px 3px #fa7171;
 }
+
+
+
+
+
 .bttn-banking {
     font-size: 12px;
     line-height: 23px;

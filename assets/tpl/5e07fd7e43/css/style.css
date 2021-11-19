@@ -110,7 +110,7 @@ input[type=text].login-form, input[type=password].login-form, input[type=email].
 	border-bottom: 1px solid #feda1b;
 }
 .box-middle{padding:0;margin-top:2px;border:2px groove #f4d940}
-.rules-agreement-logo{background:url(../images/footer.png) no-repeat;background-size:600px 45px}
+.rules-agreement-logo{background:url(https://cdn.robotaset.com/assets/images/common/footer.png) no-repeat;background-size:600px 45px}
 .title {
 	padding: 15px 0 10px 0;
 	border-bottom: 2px solid #f4d940;
